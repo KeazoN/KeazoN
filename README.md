@@ -1,5 +1,5 @@
 Hi 👋 My name is Uğur Mercan
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=KeazoN&color=blueviolet)
 ============================
 
 Web Developer and Designer
