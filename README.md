@@ -1,8 +1,6 @@
 Hi 👋 My name is Uğur Mercan
 ============================
 
-Web Developer and Designer
---------------------------
 
 ![](https://media.giphy.com/media/l1gYcLBSdL7PoDsizo/giphy.gif)
 
