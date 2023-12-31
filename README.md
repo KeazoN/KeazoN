@@ -4,7 +4,7 @@ Hi 👋 My name is Uğur Mercan
 
 ![](https://media.giphy.com/media/l1gYcLBSdL7PoDsizo/giphy.gif)
 
-2006 - I born. <br> 2014 - I developed software for games. <br> 2015 - I developed 3D games with Unity. <br> 2016 - I developed programs with VB.NET. <br> 2017 - I developed Horror Games. <br> 2018 - I developed Discord Bots. <br> 2019 - I just published my first horror game. (At the Serial Killer's House) <br> 2020 - I started Web Development. <br> 2021 - I designed websites. <br> 2022 - I am a web developer and designer.
+2006 - I born. <br> 2014 - I developed software for games. <br> 2015 - I developed 3D games with Unity. <br> 2016 - I developed programs with VB.NET. <br> 2017 - I developed Horror Games. <br> 2018 - I developed Discord Bots. <br> 2019 - I just published my first horror game. (At the Serial Killer's House) <br> 2020 - I started Web Development. <br> 2021 - I designed websites. <br> 2022 - I am a web developer and designer. <br> 2022 - I am trying to improve myself (Typescript & Javascript)
 
 * 🌍  I'm based in Kayseri, Turkey
 * ✉️  You can contact me at [ugurmercan38@gmail.com](mailto:ugurmercan38@gmail.com)
