@@ -1,1 +1,1 @@
-![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRtNWVkejVqbWY5dTJkZnd4eXppNHYyYmN3c2lkZGRmbnZsandnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iNJ1Ugw91wgDtHQkgS/giphy.gif)
+![](https://media1.tenor.com/m/I050k0VF70UAAAAC/onur-can-ozcan-gitar-calmak.gif)
