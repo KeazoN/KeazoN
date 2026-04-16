@@ -1,1 +1,1 @@
-I think i going to retire
+Fuck this system.
