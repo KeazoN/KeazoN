@@ -1,1 +1,1 @@
-every now and then, cto
+i build shit because why not.
